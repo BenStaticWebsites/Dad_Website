@@ -1,0 +1,47 @@
+/*
+Dad Website 
+Website
+*/
+
+body {
+ background: url(Images_Pics/checkeredboard_V1.jpg);
+
+}
+
+header {
+    background-color: #4B4B4B;
+    color: white;
+    opacity: .9;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-top: 5px solid white;
+    border-right: 5px solid white;
+    border-left: 5px solid white;
+}
+
+#main {
+    background-color: #4B4B4B;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+    border-bottom: 5px solid white;
+}
+
+.intro_info {
+    color: white;
+    font-family: 'Shrikhand', serif;
+    font-size: 20px;
+}
+
+
+ol {
+    background: #FF8200;
+    border: 3px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    
+}
+
